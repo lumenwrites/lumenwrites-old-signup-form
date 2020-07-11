@@ -21,6 +21,9 @@ article .screenwriters-bible {
 ul {
     padding:0;
 }
+li a {
+    color: #008cba;    
+}
 @media  (max-width: 667px) {
     .col-centered {
 	width: 100%;
